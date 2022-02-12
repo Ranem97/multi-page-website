@@ -6,6 +6,17 @@ p {
   text-align: center;
 }
 a {
-    display: flexbox;
-    space-between
+  margin: 0 20px;
+  color: aliceblue;
+}
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
+.links {
+  text-align: center;
+  display: flexbox;
+  align-content: space-between;
+  margin: 20px auto;
 }
