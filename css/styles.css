@@ -1,0 +1,11 @@
+body {
+  background-color: cornflowerblue;
+}
+h1,
+p {
+  text-align: center;
+}
+a {
+    display: flexbox;
+    space-between
+}
